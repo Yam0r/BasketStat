@@ -129,8 +129,8 @@ function createSocialLinks(teamNumber) {
             links.push(createSocialLink('https://www.instagram.com/dallasmavs/ ', 'fa-brands fa-instagram'));
             break;
         case 8:
-            links.push(createSocialLink('https://www.instagram.com/nuggets/', 'fa-brands fa-x-twitter'));
-            links.push(createSocialLink('https://x.com/nuggets', 'fa-brands fa-instagram'));
+            links.push(createSocialLink('https://x.com/nuggets', 'fa-brands fa-x-twitter'));
+            links.push(createSocialLink('https://www.instagram.com/nuggets/ ', 'fa-brands fa-instagram'));
             break;
         case 9:
             links.push(createSocialLink('https://x.com/DetroitPistons', 'fa-brands fa-x-twitter'));
